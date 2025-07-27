@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angel B</h1>
 <h3 align="center">Passionate About AI, ML, and Building Smart Systems</h3>
 
-- 🔭 I’m currently working on **Auto Price Prediction**
+- 🔭 I’m currently working on **Indian Sign Language**
 
 - 🌱 I’m currently learning **Next.js & TypeScript, Deep Learning & NLP, Cloud Platforms (GCP, AWS basics)**
 
