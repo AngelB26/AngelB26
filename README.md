@@ -1,36 +1,86 @@
-<h1 align="center">Hi 👋, I'm Angel B</h1>
-<h3 align="center">Passionate About AI, ML, and Building Smart Systems</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Indian Sign Language**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Angel%20B&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20LLM%20Applications%20%26%20Document%20Intelligence&descAlignY=60&descSize=18" alt="Angel B - AI Engineer" width="100%"/>
 
-- 🌱 I’m currently learning **Next.js & TypeScript, Deep Learning & NLP, Cloud Platforms (GCP, AWS basics)**
+![Open to work](https://img.shields.io/badge/Open%20to%20work-AI%20%2F%20GenAI%20Engineer-2ea44f?style=for-the-badge)
+![Relocation](https://img.shields.io/badge/Relocating%20to-UAE-0A66C2?style=for-the-badge)
+![Location](https://img.shields.io/badge/Based%20in-Bengaluru%2C%20India-555555?style=for-the-badge)
 
-- 👯 I’m looking to collaborate on **AI projects**
+**I build LLM systems that turn messy documents into trusted, structured data,**
+**with humans in the loop and in production, not just in notebooks.**
 
-- 🤝 I’m looking for help with **Advanced ML model deployment and MLOps practices.**
+[📄 **Resume (PDF)**](https://github.com/AngelB26/Angel_B_resume/blob/main/Angel_B_AI_Engineer_Resume.pdf) &nbsp;·&nbsp; [💼 **LinkedIn**](https://www.linkedin.com/in/angel-b-asha/) &nbsp;·&nbsp; [✉️ **Email**](mailto:asha4angelsb@gmail.com)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AngelB26](https://github.com/AngelB26)
+</div>
 
-- 📝 I regularly write articles on [https://medium.com/@asha4angelsb](https://medium.com/@asha4angelsb)
+---
 
-- 💬 Ask me about **Python, ML, AI, SQL, and Data Visualization (Power BI/Tableau)**
+## 🚀 Impact in production
 
-- 📫 How to reach me **asha4angelsb@gmail.com**
+<div align="center">
 
-- 📄 Know about my experiences [https://github.com/AngelB26/Angel_B_resume](https://github.com/AngelB26/Angel_B_resume)
+| **95%+** | **20+** | **100+** | **90%+** |
+|:---:|:---:|:---:|:---:|
+| faster turnaround<br>(2 days → 10-20 min) | industrial specification<br>documents processed | print-ready labels<br>generated | extraction<br>accuracy |
 
-- ⚡ Fun fact **I think I'm sweet.**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/angel-b-asha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angel-b-asha" height="30" width="40" /></a>
-<a href="https://kaggle.com/angelb26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="angelb26" height="30" width="40" /></a>
-<a href="https://medium.com/@asha4angelsb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asha4angelsb" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/asha4angelsb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asha4angelsb" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/asha4angelsb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asha4angelsb" height="30" width="40" /></a>
-</p>
+## 🏭 Industrial Document-to-ZPL AI Platform
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+*Production system at an industrial manufacturing company. I lead the 3-person team and own the architecture, LLM pipeline, and backend. The code is proprietary, so I'm happy to walk through the design in an interview.*
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelb26&show_icons=true&locale=en&layout=compact" alt="angelb26" /></p>
+```mermaid
+flowchart LR
+    A[Upload specification<br>documents or images] --> B[Classify standards<br>industrial / global / client]
+    B --> C[LLM extraction<br>Gemini and OpenAI]
+    C --> D{Human review<br>and approval}
+    D --> E[(PostgreSQL<br>reusable templates)]
+    E --> F[Label generation<br>canvas and ZPL code]
+    F --> G[Print-ready output<br>exact size and DPI]
+```
+
+- **Generalized one client's request** into a configurable platform used across manufacturing and automotive standards
+- **Human-in-the-loop by design:** nothing is saved until a reviewer approves the extracted data
+- **Template reuse:** stores approved extractions and layouts, so repeat requests skip re-extraction and cut LLM API cost
+- **Verified in the real world:** printed dimensions and DPI checked against a physical scale
+
+## 🛠️ Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,postgres,docker,git,opencv,sklearn,pandas,linux&theme=light" alt="Tech stack icons"/>
+
+</div>
+
+| | |
+|---|---|
+| **LLMs** | Google Gemini API · OpenAI GPT API · prompt engineering · structured extraction |
+| **Document AI** | OCR · OpenCV · document classification |
+| **Machine learning** | scikit-learn · XGBoost · LightGBM · CatBoost · HDBSCAN |
+| **Data and backend** | Python · SQL · PostgreSQL · SQLAlchemy |
+| **Tools** | Docker · Git · Pytest · Streamlit |
+
+## 🌱 Currently learning
+
+- RAG: embeddings, vector databases, and retrieval evaluation
+- FastAPI and cloud deployment
+- Agent orchestration with LangGraph
+
+## ✍️ Writing
+
+I write about AI and machine learning on [Medium](https://medium.com/@asha4angelsb).
+
+## 🤝 Let's connect
+
+I'm looking for **AI / GenAI engineer roles in the UAE**. My availability and visa details are on my resume.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-b-asha/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asha4angelsb@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@asha4angelsb)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/angelb26)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer" alt="" width="100%"/>
+
+</div>
